@@ -24,18 +24,18 @@ p {
 }
 
 .header {
-  background-image: url(./Images/the-flatiron-building.png);
+  background-image: url("../Images/the-flatiron-building.png");
   color: white;
 }
 
 .middle {
   color: white;
-  background-image: url(./Images/the-flatiron-building.png);
+  background-image: url("../Images/the-flatiron-building.png");
 }
 
 .footer {
   color: white;
   font-size: 11px;
   background-color: dimgray;
-  text-align: left; 
+  text-align: left;
 }
